@@ -10,6 +10,8 @@ He will become RADICAL!!
 
 <p> Moving: W and S</p>
 
+<p> Jumping: It's hard to get air as a fish, press space to jump</p>
+
 <p> Flipping: Turning and Moving become flipping in the air</p>
 
 ## Scoring:
@@ -22,5 +24,15 @@ As all self-respecting fish know, an arbitrary number makes you COOL!
 
 Score more points and see yourself become BODACIOUS!!
 
+## Assets Used 
+### Music 
+Boracay Beach – GeoffHarvey
+Surfing With A Stranger - BFCMUSIC
+
+### Art 
+Fish Asset by ME :) 
+
+
 ## ITCH Link 
 https://crashris.itch.io/do-fish-have-ears
+
